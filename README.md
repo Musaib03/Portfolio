@@ -29,3 +29,5 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. The 
 1. Clone or download the repository.
    ```bash
    git clone https://github.com/your-username/portfolio.git
+
+## Author: Musaib Maqbool Wani 
