@@ -308,12 +308,13 @@ section .title::after{
 
 .services .serv-content .card {
     width: calc(33.33% - 20px); /* Adjusted card width for larger screens */
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     background: #222;
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
     cursor: pointer;
+    max-height: 50vh !important ;
     transition: all 0.3s ease;
 }
 
